@@ -1,0 +1,17 @@
+numpy
+matplotlib
+pillow
+selenium
+requests
+onnxruntime
+cryptography
+uvicorn
+fastapi
+fastapi-restful[all]
+python-multipart
+opencv-python-headless==4.5.5.62
+Cython
+bs4
+xlrd
+xlwt
+geckodriver
